@@ -1,0 +1,38 @@
+.side-bar{
+    height: 100%;
+    position: fixed;
+}
+.profile-image{
+    height: 150px;
+    width: 150px;
+}
+.btn-sideber{
+    background-color: #2e2e2e60;
+}
+.btn-sideber:hover{
+    background-color: #2e2e2e90;
+}
+.left-side{
+    padding: 0;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+}
+.heading{
+    background-color: #f1efef;
+}
+
+.text h3:hover{
+    text-decoration: underline;
+}
+.single-blog{
+    justify-content: center;
+}
+.single-blog img{
+    width: 110px;
+    height: 110px;
+    padding: 0;
+}
+.single-blog-text{
+    padding-bottom: ;
+}
